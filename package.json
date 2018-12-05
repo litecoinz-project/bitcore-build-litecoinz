@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/joebl4ck/bitcore-build-litecoinz"
+    "url": "git://github.com/litecoinz-project/bitcore-build-litecoinz"
   },
   "keywords": [
     "bitcore"
@@ -33,9 +33,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joebl4ck/bitcore-build-litecoinz/issues"
+    "url": "https://github.com/litecoinz-project/bitcore-build-litecoinz/issues"
   },
-  "homepage": "https://github.com/joebl4ck/bitcore-build-litecoinz",
+  "homepage": "https://github.com/litecoinz-project/bitcore-build-litecoinz",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
